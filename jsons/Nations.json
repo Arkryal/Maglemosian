@@ -30,7 +30,7 @@
 		"outerColor": [141,11,100],
 		"innerColor": [152,245,249],
 		"uniqueName": "Hearth",
-		"uniques": ["[+5 Faith] from every [Camp]", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[+3 Faith] from every [Camp]", "[+3 Food] from every [Camp]", "Starts with [Animal Husbandry]", "Starts with [Trapping]"],
 		"cities": ["Álǫf's Glenn","House of Félagi","The Encampment","Hreiðarr's Hunt"]
 	}
 ]
