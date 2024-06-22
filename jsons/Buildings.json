@@ -3,12 +3,11 @@
 		"name": "Smokehouse",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Maglemosia",
-		"cost": 80,
+		"cost": 20,
 		"hurryCostModifier": 160,
 		"happiness": 5,
 		"production": 3,
 		"food": 5,
-		"uniques": ["70% of food is carried over after a new citizen is born"],
-		"requiredTech": "Agriculture"
+		"uniques": ["70% of food is carried over after a new citizen is born"]
 	}
 ]
