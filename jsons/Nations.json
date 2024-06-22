@@ -29,8 +29,8 @@
 
 		"outerColor": [141,11,100],
 		"innerColor": [152,245,249],
-		"uniqueName": "Scourge of God",
-		"uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game"],
+		"uniqueName": "Hearth",
+		"uniques": ["[+5 Faith] from every [Camp]", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Álǫf's Glenn","House of Félagi","The Encampment","Hreiðarr's Hunt"]
 	}
 ]
