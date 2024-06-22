@@ -6,7 +6,8 @@
 		"replaces": "Scout",
 		"movement": 3,
 		"strength": 15,
-		"cost": 100,
+		"cost": 25,
 		"promotions": ["March","Woodsman","Amphibious"],
+		"attackSound": "metalhit"
 	}
 ]
