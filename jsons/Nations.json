@@ -30,7 +30,7 @@
 		"outerColor": [141,11,100],
 		"innerColor": [152,245,249],
 		"uniqueName": "Hearth",
-		"unique": ["[+2 Faith] from every [Snow]"],
+		"unique": ["[+3 Gold, +5 Faith] [in all cities]"],
 		"cities": ["Álǫf's Glenn","House of Félagi","The Encampment","Hreiðarr's Hunt"]
 	}
 ]
