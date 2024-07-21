@@ -5,9 +5,9 @@
 		"uniqueTo": "Maglemosia",
 		"cost": 20,
 		"hurryCostModifier": 160,
-		"happiness": 5,
-		"production": 3,
-		"food": 5,
-		"uniques": ["70% of food is carried over after a new citizen is born"]
+		"happiness": 50,
+		"production": 10,
+		"food": 50,
+		"uniques": ["100% of food is carried over after a new citizen is born","[+6 Culture] from [Desert] tiles [in this city]","[+16 Faith] from [Hill] tiles [in this city]","[+5 Happiness] from [Snow] tiles [in this city]"]
 	}
 ]
