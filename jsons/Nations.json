@@ -30,7 +30,7 @@
 		"outerColor": [141,11,100],
 		"innerColor": [152,245,249],
 		"uniqueName": "Hearth",
-		"uniques": ["[+3 Faith] from every [Camp]", "[+3 Food] from every [Camp]", "Starts with [Animal Husbandry]", "Starts with [Trapping]"],
+		"uniques": ["[+3 Faith] from every [Camp]","[+200]% Yield from every [Great Improvement]","[-90]% Culture cost of natural border growth [in all cities]","[+3 Food] from every [Camp]", "Starts with [Animal Husbandry]", "Starts with [Trapping]"],
 		"cities": ["Álǫf's Glenn","House of Félagi","The Encampment","Hreiðarr's Hunt"]
 	}
 ]
