@@ -8,6 +8,6 @@
 		"happiness": 50,
 		"production": 10,
 		"food": 50,
-		"uniques": ["100% of food is carried over after a new citizen is born","[+6 Culture] from [Desert] tiles [in this city]","[+16 Faith] from [Hill] tiles [in this city]","[+5 Happiness] from [Snow] tiles [in this city]"]
+		"uniques": ["100% of food is carried over after a new citizen is born","Provides [10] [Horses]", "Provides [10] [Iron]", "Provides [10] [Food]", "Provides [10] [Wine]","[+26 Culture] from [Desert] tiles [in this city]","[+16 Faith] from [Hill] tiles [in this city]","[+5 Happiness] from [Snow] tiles [in this city]"]
 	}
 ]
